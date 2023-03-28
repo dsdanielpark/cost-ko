@@ -1,4 +1,4 @@
-# KoST
+# KoST (Korean, Speach, Text)
 Korean Speach to Text(KoSTT) and Korean Text to speach(KoTTS)
 
 
