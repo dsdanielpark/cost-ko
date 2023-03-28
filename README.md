@@ -5,7 +5,9 @@ Korean Speach to Text(KoSTT) and Korean Text to speach(KoTTS)
 # References
 [1] https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch/ <Br>
 [2] https://github.com/snakers4/silero-models
-```
+
+# Cites
+```BibTex
 @misc{Silero Models,
   author = {Silero Team},
   title = {Silero Models: pre-trained enterprise-grade STT / TTS models and benchmarks},
