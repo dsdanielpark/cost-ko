@@ -1,5 +1,5 @@
 # KoST
-Korean Speach to Text (STT) and Korean Text to speach 
+Korean Speach to Text(KoSTT) and Korean Text to speach(KoTTS)
 
 
 # References
