@@ -1,4 +1,5 @@
-![](https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko.png)
+
+![](https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko_logo.png)
 
 # CoST-Ko (Korean, Speach, Text)
 
