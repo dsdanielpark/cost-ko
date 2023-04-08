@@ -1,5 +1,7 @@
-# CoST-Ko (Korean, Speach, Text)
 ![](https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko.png)
+
+# CoST-Ko (Korean, Speach, Text)
+
 Cost efficient Speach to Text(STT) and Text to speach(KTS) in Korean
 
 
