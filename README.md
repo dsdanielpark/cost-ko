@@ -1,4 +1,4 @@
-# coST-Ko (Korean, Speach, Text)
+# CoST-Ko (Korean, Speach, Text)
 Cost efficient Speach to Text(STT) and Text to speach(KTS) in Korean
 
 
