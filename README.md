@@ -1,5 +1,5 @@
 
-<p align="center" width=1000>
+<p align="center" width="100%">
     <img width="33%" src="https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko.png">
 </p>
 
