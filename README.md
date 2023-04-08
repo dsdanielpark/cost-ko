@@ -3,8 +3,6 @@
     <img width="33%" src="https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko_logo.png">
 </p>
 
-# CoST-Ko (Korean, Speach, Text)
-
 Cost efficient Speach to Text(STT) and Text to speach(KTS) in Korean
 
 
