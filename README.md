@@ -1,7 +1,10 @@
+![](https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko_logo.png)
 
-<p align="center" width=300>
+<!--
+<p align="center" height="200%">
     <img width="33%" src="https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko_logo.png">
 </p>
+-->
 
 Cost efficient Speach to Text(STT) and Text to speach(KTS) in Korean
 
