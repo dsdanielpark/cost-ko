@@ -1,3 +1,5 @@
+Development Status :: 1 - Planning
+
 ![](https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko_logo.png)
 [![Python Version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-black.svg)](code_of_conduct.md)
 ![Code convention](https://img.shields.io/badge/code%20convention-pep8-black)
