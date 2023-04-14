@@ -1,4 +1,6 @@
-Development Status :: 1 - Planning
+Development Status :: 1 - Planning<br>
+*Copyright (c) 2023 MinWoo Park*
+<br>
 
 ![](https://github.com/DSDanielPark/CoST-Ko/blob/main/assets/imgs/costko_logo.png)
 [![Python Version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-black.svg)](code_of_conduct.md)
